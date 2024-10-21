@@ -20,4 +20,10 @@ Insightful charts and graphs represent the data findings.
 
 ## Education Goals 🎓
 Explores Gen Z’s higher education aspirations.
+---
+
+## 📸 Dashboard Screenshots
+
+![Career Aspiration of Gen Z](https://github.com/user-attachments/assets/a04850d6-877a-4969-8e51-6aa3115aefeb)
+
 
